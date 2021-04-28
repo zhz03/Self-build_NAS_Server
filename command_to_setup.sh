@@ -7,7 +7,7 @@ sudo apt-get install ntfs-3g
 sudo apt-get install exfat-utils exfat-fuse
 # samba sever on raspberry pi
 ## chose "yes" during the installation
-sudo apt-get install samb samba-common-bin
+sudo apt-get install samba samba-common-bin
 # 
 sudo mkdir /PiServer
 sudo chmod 777 /PiServer
